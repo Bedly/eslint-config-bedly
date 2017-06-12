@@ -1,0 +1,14 @@
+{
+  "name": "eslint-config-bedly",
+  "version": "1.0.0",
+  "description": "Javascript style guide",
+  "main": "index.js",
+  "repository": "https://github.com/Bedly/eslint-config-bedly.git",
+  "author": "Marius <marius@appscend.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^4.0.0",
+    "eslint-plugin-import": "^2.3.0",
+    "eslint-plugin-react": "^7.0.1"
+  }
+}
